@@ -11,7 +11,7 @@ This repository provides implementations of transformer-based deep learning mode
 An enhanced version of the original Swin Transformer, specifically fine-tuned for mammogram classification.
 
 **Training Details:**
-- **Epochs:** 5  
+- **Epochs:** 50
 - **Train Accuracy:** 91.91%  
 - **Validation Accuracy:** 83.14%  
 - **Test Performance:**
